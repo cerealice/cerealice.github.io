@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Di Bella"
-  avatar           : # "profile.png"  (add your photo to /images/ and uncomment)
+  avatar           : "profile.png"  #(add your photo to /images/ and uncomment)
   bio              : "Postdoctoral researcher working on energy system modelling and decarbonization pathways for Europe."
   location         : "Milan, Italy"
   employer         : "RFF-CMCC EIEE"
